@@ -37,7 +37,7 @@ javac -cp "lib/*" -d out $(find src -name "*.java")
 
 ### 📌 Step 3: Run the Project
 
-java -cp "out:lib/*" com.ishika.smartstudent.Main  
+java -cp "out:lib/*" com.chaitanya.smartstudent.Main  
 
 
 ---
