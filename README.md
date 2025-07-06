@@ -68,7 +68,7 @@ SmartStudent/
 │   ├── mysql-connector-j-9.3.0.jar
 │   └── flatlaf-3.2.5.jar
 ├── src/                     # Source code
-│   └── com/ishika/smartstudent/
+│   └── com/chaitanya/smartstudent/
 │       ├── db/
 │       ├── dao/
 │       ├── model/
